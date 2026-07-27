@@ -30,3 +30,15 @@ This repository is used to practice Git and GitHub workflows.
 - Split the project into `main.py` and `greeting.py`
 - Added `.gitignore`
 - Learned why `__pycache__` and `.pyc` files should not be committed
+
+## Key Takeaways
+
+### Git
+
+- A commit should represent one meaningful change.
+- Always review changes with `git diff` before committing.
+
+### Python
+
+- Use modules to organize reusable code.
+- Ignore `__pycache__` and `.pyc` files with `.gitignore`.
