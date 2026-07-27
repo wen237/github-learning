@@ -10,4 +10,23 @@ This repository is used to practice Git and GitHub workflows.
 
 ## Progress
 
-I have created my first local Git repository and published it to GitHub.
+### Day 1
+
+- Created the repository
+- Added `README.md`
+- Added `hello.py`
+- Learned `git init`, `git add`, `git commit`, and `git push`
+
+### Day 2
+
+- Learned how to use `git diff`
+- Understood the staging area
+- Added a `goodbye()` function
+- Practiced writing meaningful commit messages
+
+### Day 3
+
+- Transform into project management
+- Split the project into `main.py` and `greeting.py`
+- Added `.gitignore`
+- Learned why `__pycache__` and `.pyc` files should not be committed
