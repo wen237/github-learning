@@ -31,12 +31,21 @@ This repository is used to practice Git and GitHub workflows.
 - Added `.gitignore`
 - Learned why `__pycache__` and `.pyc` files should not be committed
 
+### Day 4
+
+- Git stores project history instead of simply saving files.
+- `git restore` restores changes from Git history.
+- `git rm` removes a file from both the working directory and the staging area.
+- Understanding the working directory, staging area, and commit history is essential.
+
 ## Key Takeaways
 
 ### Git
 
-- A commit should represent one meaningful change.
-- Always review changes with `git diff` before committing.
+- Git is not just a backup tool—it records the evolution of a project through meaningful commits.
+- A good commit records one meaningful change with a clear message, making project history easy to understand.
+- Organizing code into modules and using `.gitignore` keeps a Python project clean, maintainable, and focused on source code rather than generated files.
+- Git manages changes across the working directory, staging area, and commit history, so understanding where a file exists is just as important as knowing which command to use.
 
 ### Python
 
