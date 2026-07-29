@@ -38,6 +38,11 @@ This repository is used to practice Git and GitHub workflows.
 - `git rm` removes a file from both the working directory and the staging area.
 - Understanding the working directory, staging area, and commit history is essential.
 
+### Day 5
+
+- `git show` is for viewing what a particular commit did.
+- Git preserves the story of a project. Reading commit history is just as important as creating commits.
+
 ## Key Takeaways
 
 ### Git
