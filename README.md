@@ -43,6 +43,11 @@ This repository is used to practice Git and GitHub workflows.
 - `git show` is for viewing what a particular commit did.
 - Git preserves the story of a project. Reading commit history is just as important as creating commits.
 
+### Day 6
+
+- `git switch` is amazing!
+- Every commit is a complete snapshot of the project, allowing Git to restore the entire repository to any point in its history.
+
 ## Key Takeaways
 
 ### Git
