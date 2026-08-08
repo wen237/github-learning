@@ -48,6 +48,14 @@ This repository is used to practice Git and GitHub workflows.
 - `git switch` is amazing!
 - Every commit is a complete snapshot of the project, allowing Git to restore the entire repository to any point in its history.
 
+### Day 7
+
+- Learned the concept of Git branches
+- Created the first feature branch
+- Developed and committed a feature without modifying `main`
+- Practiced switching between `main` and a feature branch
+- Pushed a feature branch to GitHub
+
 ## Key Takeaways
 
 ### Git
@@ -56,6 +64,7 @@ This repository is used to practice Git and GitHub workflows.
 - A good commit records one meaningful change with a clear message, making project history easy to understand.
 - Organizing code into modules and using `.gitignore` keeps a Python project clean, maintainable, and focused on source code rather than generated files.
 - Git manages changes across the working directory, staging area, and commit history, so understanding where a file exists is just as important as knowing which command to use.
+- A Git branch provides an independent line of development by pointing to its own commit history, allowing new features to evolve without changing the stable `main` branch.
 
 ### Python
 
