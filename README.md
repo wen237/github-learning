@@ -56,6 +56,14 @@ This repository is used to practice Git and GitHub workflows.
 - Practiced switching between `main` and a feature branch
 - Pushed a feature branch to GitHub
 
+### Day 8
+
+- Created the first Pull Request on GitHub
+- Reviewed changes before merging
+- Merged a feature branch into `main`
+- Synchronized the remote changes with the local repository
+- Deleted the completed feature branch
+
 ## Key Takeaways
 
 ### Git
@@ -65,6 +73,7 @@ This repository is used to practice Git and GitHub workflows.
 - Organizing code into modules and using `.gitignore` keeps a Python project clean, maintainable, and focused on source code rather than generated files.
 - Git manages changes across the working directory, staging area, and commit history, so understanding where a file exists is just as important as knowing which command to use.
 - A Git branch provides an independent line of development by pointing to its own commit history, allowing new features to evolve without changing the stable `main` branch.
+- A Pull Request provides a structured process for reviewing and integrating changes from a feature branch into the main development line.
 
 ### Python
 
